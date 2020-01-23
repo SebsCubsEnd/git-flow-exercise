@@ -14,10 +14,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus with cranberries](recipe/feb/asparagus-with-cranberries.md)
 
-### [John Lemon](writer/john-lemon.md) 
-
-[Candied carrots](recipe/feb/candied-carrots.md)
-
 ### [Madame Croque](writer/madame-croque.md) 
 
 [Roasted pork sandwich](recipe/feb/roast-pork-sandwich.md)
